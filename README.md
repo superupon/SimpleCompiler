@@ -1,3 +1,4 @@
 # SimpleCompiler
-Just writing a compiler with LLVM introduction tutorial
-A Test
+
+## Introduction
+It's just a toy compiler which written by Rust. It can support RISCV assembly auto-generation
